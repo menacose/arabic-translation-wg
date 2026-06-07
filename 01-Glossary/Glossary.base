@@ -1,0 +1,48 @@
+filters:
+  and:
+    - 'file.inFolder("01-Glossary/Terms")'
+    - 'file.ext == "md"'
+properties:
+  english:
+    displayName: English
+  arabic:
+    displayName: Arabic
+  status:
+    displayName: Status
+  review_state:
+    displayName: Review State
+  option_a:
+    displayName: Option A
+  option_b:
+    displayName: Option B
+  option_c:
+    displayName: Option C
+  decision:
+    displayName: Decision
+  term_type:
+    displayName: Term Type
+  matrix:
+    displayName: Matrix
+  source_term:
+    displayName: Source Term
+  definition_source:
+    displayName: Definition Source
+  source_status:
+    displayName: Source Status
+views:
+  - type: table
+    name: Glossary Working Table
+    order:
+      - english
+      - arabic
+      - status
+      - review_state
+      - option_a
+      - option_b
+      - option_c
+      - decision
+      - term_type
+      - matrix
+      - source_term
+      - definition_source
+      - source_status

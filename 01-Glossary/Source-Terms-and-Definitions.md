@@ -1,0 +1,85 @@
+# Source Terms and Definitions
+
+Status: Unified source glossary for translation work
+Date created: 07.06.2026
+
+This list captures Appendix C source definitions. Each entry links to the single working term note in [[Glossary.base]].
+
+| Term | Definition | Source | Entry |
+|---|---|---|---|
+| Ability | A term used in human resource management denoting an acquired or natural capacity or talent that enables an individual to perform a particular task successfully. | INCOSE SECF | [[Terms/Ability]] |
+| Acquirer | The stakeholder that acquires or procures a product or service from a supplier. | ISO/IEC/IEEE 15288, 2023 | [[Terms/Acquirer]] |
+| Activity | A set of cohesive tasks of a process. | ISO/IEC/IEEE 15288, 2023 | [[Terms/Activity]] |
+| Agile systems-engineering | An SE process using agile approach. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Agile-systems-engineering-process]] |
+| Agile-systems engineering | An engineering process producing agile systems. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Agile-systems-engineering-product]] |
+| Agreement | The mutual acknowledgment of terms and conditions under which a working relationship is conducted. | ISO/IEC/IEEE 15288, 2023 | [[Terms/Agreement]] |
+| Architect | See System architect. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Architect]] |
+| Architecture | See System architecture. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Architecture]] |
+| Artifact | Work product that is produced and used during a project to capture and convey information. | ISO/IEC/IEEE 15288, 2023 | [[Terms/Artifact]] |
+| Attribute | An attribute of a system or system element is an observable characteristic or property of the system or system element. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Attribute]] |
+| Baseline | An agreed-to description of the attributes of a product at a point in time, which serves as a basis for defining change. | EIA-649C, 2019 | [[Terms/Baseline]] |
+| Behavior | The way in which one acts or conducts oneself, especially towards others. | INCOSE SECF | [[Terms/Behavior]] |
+| Black box | Black box represents an external view of the system attributes. Also referred to as opaque box. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Black-box]] |
+| Brownfield SE | Development of to-be system or system elements in the presence of existing or legacy as-is system or system elements. A brownfield approach is usually used to extend, improve, or replace a system that is in use or to reuse system elements that will not be impacted by the desired changes. The new system architecture must take into account the existing system elements and functions, which impose constraints on the overall system definition. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Brownfield-SE]] |
+| Capability | An expression of a system, product, function, or process ability to achieve a specific objective under stated conditions. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Capability]] |
+| Commonality | Of a product line, refers to functional and non-functional characteristics that can be shared with all member products within a product line. | ISO/IEC/IEEE 26550, 2015 | [[Terms/Commonality]] |
+| Competence | The measure of specified ability to do something well. | INCOSE SECF | [[Terms/Competence]] |
+| Competency | An observable, measurable set of skills, knowledge, abilities, behaviors, and other characteristics an individual needs to successfully perform work roles or occupational functions. Competencies are typically required at different levels of proficiency depending on the specific work role or occupational function. Competencies can help ensure individual and team performance aligns with the organization's mission and strategic direction. | INCOSE SECF | [[Terms/Competency]] |
+| Configuration item (CI) | A system, system element, or artifact designated for configuration management. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Configuration-item-CI]] |
+| Customer | See Acquirer. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Customer]] |
+| Decision gate | A decision gate is an approval event, which may be associated with a review. Entry and exit criteria are established for each decision gate; continuation beyond the decision gate is contingent on the agreement of decision makers. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Decision-gate]] |
+| Design constraints | The boundary conditions, externally or internally imposed, for the SoI within which the organization must remain when executing the processes during the concept and development stages. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Design-constraints]] |
+| Engineered System | A system designed or adapted to interact with an anticipated operational environment to achieve one or more intended purposes while complying with applicable constraints. | INCOSE Definitions, 2019 | [[Terms/Engineered-System]] |
+| Enterprise | A purposeful combination of interdependent resources that interact with each other to achieve business and operational goals. | Rebovich and White, 2011 | [[Terms/Enterprise]] |
+| Environment | The surroundings, natural or man-made, in which the SoI is utilized and supported or in which the system is being developed, produced, and retired. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Environment]] |
+| Facility | The physical means or equipment for facilitating the performance of an action, for example, buildings, instruments, and tools. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Facility]] |
+| Failure | The event in which any part of a system or system element does not perform as required by its specification. The failure may occur at a value in excess of the minimum required in the specification, that is, past design limits or beyond the margin of safety. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Failure]] |
+| Functional configuration audit (FCA) | An evaluation to ensure that the product meets baseline functional and performance capabilities. | Adapted from ISO/IEC/IEEE 15288, 2023 | [[Terms/Functional-configuration-audit-FCA]] |
+| Greenfield SE | Development of a system for a new environment and set of user scenarios and requirements. A greenfield approach typically has no significant legacy constraints or dependencies within the system boundary. However, it is rare that there are no constraints or dependencies from external interfaces or enabling systems. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Greenfield-SE]] |
+| Human factors | The systematic application of relevant information about human abilities, characteristics, behavior, motivation, and performance. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Human-factors]] |
+| IPO diagram | Figures in this handbook that provide a high-level view of the process of interest. The diagram summarizes the process activities and their typical inputs and typical outputs from or to other processes or external actors. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/IPO-diagram]] |
+| Interface | A shared boundary between two systems or system elements, defined by functional characteristics, common physical interconnection characteristics, signal characteristics, or other characteristics, as appropriate. | Adapted from ISO/IEC 2382, 2015 | [[Terms/Interface]] |
+| Knowledge | A body of information applied directly to the performance of a function. | INCOSE SECF | [[Terms/Knowledge]] |
+| Life cycle cost (LCC) | The total cost of a system over its entire life. It includes all costs associated with the system and its use in the concept, development, production, utilization, support, and retirement stages. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Life-cycle-cost-LCC]] |
+| Life cycle model | A framework of processes and activities concerned with the life cycle, which also acts as a common reference for communication and understanding. | ISO/IEC/IEEE 15288, 2023 | [[Terms/Life-cycle-model]] |
+| Measure | Variable to which a value is assigned as the result of measurement. | ISO/IEC/IEEE 15939, 2017 | [[Terms/Measure]] |
+| Measurement | Set of operations having the object of determining a value of a measure. | ISO/IEC/IEEE 15939, 2017 | [[Terms/Measurement]] |
+| Measures of effectiveness (MOEs) | Measures that define the acquirer's key indicators of achieving the mission needs for performance, suitability, and affordability across the life cycle. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Measures-of-effectiveness-MOEs]] |
+| Measures of performance (MOPs) | Measures to assess whether the system meets design or performance requirements and has the capability to achieve operational objectives. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Measures-of-performance-MOPs]] |
+| N2 diagrams | Graphical representation used to define the internal operational relationships or external interfaces of the SoI. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/N2-diagrams]] |
+| Need statement | The result of a formal transformation of one or more life cycle concepts into an agreed-to expectation for an entity to perform some function or possess some quality. | INCOSE GtWR, 2022 | [[Terms/Need-statement]] |
+| Operator | See User. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Operator]] |
+| Organization | Person, or a group of people, and facilities with an arrangement of responsibilities, authorities, and relationships. | Adapted from ISO 9001, 2015 | [[Terms/Organization]] |
+| Performance | A quantitative measure characterizing a physical or functional attribute relating to the execution of a process, function, activity, or task; performance attributes include quantity, quality, timeliness, and readiness. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Performance]] |
+| Physical configuration audit (PCA) | An evaluation to ensure that the operational system conforms to the operational and configuration documentation. | Adapted from ISO/IEC/IEEE 15288, 2023 | [[Terms/Physical-configuration-audit-PCA]] |
+| Process | A set of interrelated or interacting activities that transforms inputs into outputs. | Adapted from ISO 9001, 2015 | [[Terms/Process]] |
+| Product line | Group of products or services sharing a common, managed set of features that satisfy specific needs of a selected market or mission. | ISO/IEC/IEEE 24765, 2017 | [[Terms/Product-line]] |
+| Project | An endeavor with defined start and finish criteria undertaken to create a product or service in accordance with specified resources and requirements. | ISO/IEC/IEEE 15288, 2023 | [[Terms/Project]] |
+| Proof of concept | A realization of an idea or technology to demonstrate its feasibility. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Proof-of-concept]] |
+| Quality Characteristics | Inherent characteristic of a product, process, or system related to a requirement. | ISO/IEC/IEEE 15288, 2023 | [[Terms/Quality-Characteristics]] |
+| Requirement statement | The result of a formal transformation of one or more needs or parent requirements into an agreed-to obligation for an entity to perform some function or possess some quality. | INCOSE GtWR, 2022 | [[Terms/Requirement-statement]] |
+| Resource | An asset that is utilized or consumed during the execution of a process. | ISO/IEC/IEEE 15288, 2023 | [[Terms/Resource]] |
+| Return on investment | Ratio of revenue from output, product, or service to development and production costs, which determines whether an organization benefits from performing an action to produce something. | ISO/IEC/IEEE 24765, 2017 | [[Terms/Return-on-investment]] |
+| Reuse | The use of an asset in the solution of different problems. | IEEE 1517, 2010 | [[Terms/Reuse]] |
+| Skills | An observable competence to perform a learned psychomotor act. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Skills]] |
+| Stage | A period within the life cycle of an entity that relates to the state of its description or realization. Typical life cycle stages include concept, development, production, utilization, support, and retirement. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Stage]] |
+| Stakeholder | A party having a right, share, or claim in a system or in its possession of characteristics that meet that party's needs and expectations. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Stakeholder]] |
+| Supplier | An organization or an individual that enters into an agreement with an acquirer for the supply of a product or service. | ISO/IEC/IEEE 15288, 2023 | [[Terms/Supplier]] |
+| System architect | The person, team, or organization responsible for a system's architecture, for coordinating engineering effort towards devising solutions to complex problems, and overseeing their implementations. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/System-architect]] |
+| System architecture | The fundamental concepts or properties of an entity in its environment and governing principles for the realization and evolution of this entity and its related life cycle processes. | ISO/IEC/IEEE 42020, 2019 | [[Terms/System-architecture]] |
+| System element | Member of a set of elements that constitutes a system. | ISO/IEC/IEEE 15288, 2023 | [[Terms/System-element]] |
+| System life cycle | The evolution with time of a SoI from conception to retirement. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/System-life-cycle]] |
+| System of interest (SoI) | The system whose life cycle is under consideration. | ISO/IEC/IEEE 15288, 2023 | [[Terms/System-of-interest-SoI]] |
+| System of systems | A SoI whose system elements are themselves systems; typically, these entail large-scale interdisciplinary problems with multiple, heterogeneous, distributed systems. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/System-of-systems]] |
+| System | An arrangement of parts or elements that together exhibit behavior or meaning that the individual constituents do not. | INCOSE Definitions, 2019 | [[Terms/System]] |
+| Systems engineering | A transdisciplinary and integrative approach to enable the successful realization, use, and retirement of engineered systems, using systems principles and concepts, and scientific, technological, and management methods. | INCOSE Definitions, 2019 | [[Terms/Systems-Engineering]] |
+| Tailoring | The manner in which any selected issue is addressed in a particular project. Tailoring may be applied to various aspects of the project, including project documentation, processes, activities performed in each life cycle stage, the time and scope of reviews, analysis, and decision making consistent with all applicable statutory requirements. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Tailoring]] |
+| Technical performance measures (TPMs) | Measures to assess design progress, compliance to performance requirements, or technical risks and provide visibility into the status of important project technical parameters to enable effective management, thus enhancing the likelihood of achieving the technical objectives of the project. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Technical-performance-measures-TPMs]] |
+| Trade-off | Decision-making actions that selects from various alternatives on the basis of net benefit to the stakeholders. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/Trade-off]] |
+| User | An individual who, or an organization that, contributes to the functionality of a system and draws on knowledge, skills, and procedures to contribute to the function. Individual who or group that benefits from a system during its utilization. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/User]] |
+| Validation | Confirmation, through the provision of objective evidence, that the requirements for a specific intended use or application have been fulfilled. | ISO/IEC/IEEE 15288, 2023 | [[Terms/Validation]] |
+| Value | A measure of worth, for example benefit divided by cost, of a specific product or service by a customer, and potentially other stakeholders. | McManus, 2005 | [[Terms/Value]] |
+| Variability | Of a product line, refers to characteristics that may differ among members of the product line. | ISO/IEC/IEEE 26550, 2015 | [[Terms/Variability]] |
+| Verification | Confirmation, through the provision of objective evidence, that specified requirements have been fulfilled. | ISO/IEC/IEEE 15288, 2023 | [[Terms/Verification]] |
+| Waste | Work that adds no value to the product or service in the eyes of the customer. | Womack and Jones, 1996 | [[Terms/Waste]] |
+| White box | White box represents an internal view of the system, attributes and structure of the elements. Also referred to as transparent box. | INCOSE Systems Engineering Handbook, Appendix C | [[Terms/White-box]] |

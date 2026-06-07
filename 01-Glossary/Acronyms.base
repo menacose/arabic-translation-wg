@@ -1,0 +1,30 @@
+filters:
+  and:
+    - 'file.inFolder("01-Glossary/Acronyms")'
+    - 'file.ext == "md"'
+properties:
+  acronym:
+    displayName: Acronym
+  primary_expansion:
+    displayName: Primary Expansion
+  arabic:
+    displayName: Arabic Handling
+  status:
+    displayName: Status
+  translation_status:
+    displayName: Translation Status
+  ambiguity:
+    displayName: Ambiguity
+  source:
+    displayName: Source
+views:
+  - type: table
+    name: Acronym Working Table
+    order:
+      - acronym
+      - primary_expansion
+      - arabic
+      - status
+      - translation_status
+      - ambiguity
+      - source
