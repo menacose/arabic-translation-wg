@@ -21,9 +21,12 @@ Maintains the official glossary, records terminology disagreements, and ensures 
 
 ## Role Assignments
 
-| Person | Role | Scope | Notes |
-|---|---|---|---|
-| TBD | Translator | TBD |  |
-| TBD | Reviewer | TBD |  |
-| TBD | SE Reviewer | TBD |  |
-| TBD | Glossary Curator | Whole glossary | Most critical coordination role. |
+
+
+| Person | Role             | Scope          | Notes                            |
+| ------ | ---------------- | -------------- | -------------------------------- |
+| TBD    | Translator       | TBD            |                                  |
+| TBD    | Reviewer         | TBD            |                                  |
+| TBD    | SE Reviewer      | TBD            |                                  |
+| TBD    | Glossary Curator | Whole glossary | Most critical coordination role. |
+|        |                  |                |                                  |

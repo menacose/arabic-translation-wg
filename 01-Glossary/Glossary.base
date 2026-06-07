@@ -1,7 +1,7 @@
 filters:
   and:
-    - 'file.inFolder("01-Glossary/Terms")'
-    - 'file.ext == "md"'
+    - file.inFolder("01-Glossary/Terms")
+    - file.ext == "md"
 properties:
   english:
     displayName: English

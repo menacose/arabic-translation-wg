@@ -1,7 +1,7 @@
 filters:
   and:
-    - 'file.inFolder("01-Glossary/Acronyms")'
-    - 'file.ext == "md"'
+    - file.inFolder("01-Glossary/Acronyms")
+    - file.ext == "md"
 properties:
   acronym:
     displayName: Acronym
