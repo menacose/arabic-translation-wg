@@ -14,7 +14,7 @@ tags:
 # ADS
 
 Arabic handling:
-TBD
+TBD (Bassem)
 
 ## Expansions
 
