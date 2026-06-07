@@ -14,8 +14,8 @@ tags:
 # ADS
 
 Arabic handling:
-TBD (Bassem)
-
+TBD
+**أنظمة القيادة الذاتية**
 ## Expansions
 
 - Automated Driving Systems
