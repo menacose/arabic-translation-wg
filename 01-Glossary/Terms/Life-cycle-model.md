@@ -4,7 +4,7 @@ arabic: TBD
 status: "Source definition"
 review_state: "Needs Arabic term"
 term_type: TBD
-option_a: TBD
+option_a: نموذج دورة الحياة
 option_b: TBD
 option_c: TBD
 decision: TBD
