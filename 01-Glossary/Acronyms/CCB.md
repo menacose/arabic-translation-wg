@@ -15,7 +15,10 @@ tags:
 
 Arabic handling:
 TBD
-
+مجلس التحكم في المواصفات التكوينية
+مجلس التحكم في التكوين
+مجلس ضبط التهيئة
+لجنة التحكم في التهيئة
 ## Expansions
 
 - Configuration Control Board

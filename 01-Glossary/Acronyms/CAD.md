@@ -15,6 +15,8 @@ tags:
 
 Arabic handling:
 TBD
+التصميم بمساعدة الحاسوب
+التصميم المدعوم بالحاسوب
 
 ## Expansions
 

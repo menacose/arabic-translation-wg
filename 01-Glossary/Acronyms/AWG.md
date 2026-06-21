@@ -15,7 +15,9 @@ tags:
 
 Arabic handling:
 TBD
-
+فريق العمل المعني بالسيارات
+مجموعة العمل الخاصة بقطاع السيارات
+مجموعة عمل المركبات
 ## Expansions
 
 - Automotive Working Group [INCOSE]

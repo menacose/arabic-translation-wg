@@ -15,6 +15,9 @@ tags:
 
 Arabic handling:
 TBD
+تكامل - نموذج نضج القدرات
+تكامل - نموذج نضج الإمكانات
+
 
 ## Expansions
 

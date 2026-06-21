@@ -15,6 +15,8 @@ tags:
 
 Arabic handling:
 TBD
+الإتاحية التشغيلية
+جاهزية التشغيل
 
 ## Expansions
 

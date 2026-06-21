@@ -15,6 +15,7 @@ tags:
 
 Arabic handling:
 TBD
+نموذج التكلفة البنّاء لهندسة النظم
 
 ## Expansions
 

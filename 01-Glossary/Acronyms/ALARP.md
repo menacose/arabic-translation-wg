@@ -16,6 +16,10 @@ tags:
 Arabic handling:
 TBD
 
+إلى أدنى مستوى يمكن تحقيقه بصورة معقولة
+إلى أدنى مستوى ممكن عمليًا
+إلى مستوى منخفض بقدر ما هو ممكن ومعقول عمليًا
+
 ## Expansions
 
 - As low as reasonably practicable

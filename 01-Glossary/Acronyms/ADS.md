@@ -14,8 +14,9 @@ tags:
 # ADS
 
 Arabic handling:
-TBD
-**أنظمة القيادة الذاتية**
+أنظمة القيادة الآلية
+نُظُم القيادة المؤتمتة
+أنظمة القيادة الذاتية
 ## Expansions
 
 - Automated Driving Systems
