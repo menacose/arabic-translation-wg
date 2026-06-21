@@ -1,12 +1,12 @@
 ---
 english: "Physical configuration audit (PCA)"
-arabic: TBD
-status: "Source definition"
-review_state: "Needs Arabic term"
-term_type: TBD
-option_a: TBD
-option_b: TBD
-option_c: TBD
+arabic: "تدقيق التهيئة المادية"
+status: Proposed
+review_state: "Needs WG vote"
+term_type: "Configuration Term"
+option_a: "تدقيق التهيئة المادية"
+option_b: "مراجعة التهيئة المادية"
+option_c: "تدقيق المطابقة المادية للتهيئة"
 decision: TBD
 matrix: "[[Term-Selection-Matrices#Physical configuration audit (PCA)]]"
 source_term: "Physical configuration audit (PCA)"
@@ -20,10 +20,10 @@ tags:
 # Physical configuration audit (PCA)
 
 Arabic:
-TBD
+تدقيق التهيئة المادية
 
 Status:
-Source definition
+Proposed
 
 ## Source Definition
 
@@ -34,4 +34,4 @@ Adapted from ISO/IEC/IEEE 15288, 2023
 
 ## Translation Notes
 
-TBD
+يراعي الخيار الأول اتساق المسرد مع `إدارة التهيئة`، ويستخدم `تدقيق` للدلالة على audit. `مراجعة التهيئة المادية` ألطف لغوياً لكنها أقل صرامة، و`تدقيق المطابقة المادية للتهيئة` أوضح في سياقات المطابقة لكنه أطول.

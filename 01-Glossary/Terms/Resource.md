@@ -1,12 +1,12 @@
 ---
 english: "Resource"
-arabic: TBD
-status: "Source definition"
-review_state: "Needs Arabic term"
-term_type: TBD
-option_a: TBD
-option_b: TBD
-option_c: TBD
+arabic: مورد
+status: Proposed
+review_state: "Needs WG vote"
+term_type: "Resource Term"
+option_a: مورد
+option_b: أصل
+option_c: "وسيلة متاحة"
 decision: TBD
 matrix: "[[Term-Selection-Matrices#Resource]]"
 source_term: "Resource"
@@ -20,10 +20,10 @@ tags:
 # Resource
 
 Arabic:
-TBD
+مورد
 
 Status:
-Source definition
+Proposed
 
 ## Source Definition
 
@@ -34,4 +34,4 @@ ISO/IEC/IEEE 15288, 2023
 
 ## Translation Notes
 
-TBD
+`مورد` هو الخيار الأوسع في إدارة المشاريع عند الحديث عن الأشخاص أو المعدات أو التمويل أو غيرها مما يستخدم لتنفيذ العمل. `أصل` ينسجم مع asset في التعريف لكنه قد يوحي بالملكية أو المحاسبة، و`وسيلة متاحة` تفسيرية أكثر من كونها مصطلحاً.

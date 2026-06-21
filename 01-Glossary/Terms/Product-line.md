@@ -1,12 +1,12 @@
 ---
 english: "Product line"
-arabic: TBD
-status: "Source definition"
-review_state: "Needs Arabic term"
-term_type: TBD
-option_a: TBD
-option_b: TBD
-option_c: TBD
+arabic: "خط منتجات"
+status: Proposed
+review_state: "Needs WG vote"
+term_type: "Product Term"
+option_a: "خط منتجات"
+option_b: "عائلة منتجات"
+option_c: "تشكيلة منتجات"
 decision: TBD
 matrix: "[[Term-Selection-Matrices#Product line]]"
 source_term: "Product line"
@@ -20,10 +20,10 @@ tags:
 # Product line
 
 Arabic:
-TBD
+خط منتجات
 
 Status:
-Source definition
+Proposed
 
 ## Source Definition
 
@@ -34,4 +34,4 @@ ISO/IEC/IEEE 24765, 2017
 
 ## Translation Notes
 
-TBD
+`خط منتجات` قريب من الاستعمال الإداري والهندسي عند الحديث عن مجموعة منتجات مشتركة السمات. `عائلة منتجات` يوضح الاشتراك البنيوي بين المنتجات، بينما `تشكيلة منتجات` مناسب تجارياً لكنه أضعف في معنى الإدارة المشتركة للخصائص.

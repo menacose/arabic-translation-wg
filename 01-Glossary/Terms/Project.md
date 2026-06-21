@@ -1,12 +1,12 @@
 ---
 english: "Project"
-arabic: TBD
-status: "Source definition"
-review_state: "Needs Arabic term"
-term_type: TBD
-option_a: TBD
-option_b: TBD
-option_c: TBD
+arabic: مشروع
+status: Proposed
+review_state: "Needs WG vote"
+term_type: "Project Management Term"
+option_a: مشروع
+option_b: "مسعى محدد"
+option_c: "عمل مؤقت"
 decision: TBD
 matrix: "[[Term-Selection-Matrices#Project]]"
 source_term: "Project"
@@ -20,10 +20,10 @@ tags:
 # Project
 
 Arabic:
-TBD
+مشروع
 
 Status:
-Source definition
+Proposed
 
 ## Source Definition
 
@@ -34,4 +34,4 @@ ISO/IEC/IEEE 15288, 2023
 
 ## Translation Notes
 
-TBD
+`مشروع` هو المقابل المستقر في إدارة المشاريع وPMBOK، وينسجم مع التعريف بوصفه مسعى له بداية ونهاية. `مسعى محدد` يبرز جانب endeavor، و`عمل مؤقت` يبرز المحدودية الزمنية لكنه أقل اصطلاحية.

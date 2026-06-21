@@ -1,12 +1,12 @@
 ---
 english: "Performance"
-arabic: TBD
-status: "Source definition"
-review_state: "Needs Arabic term"
-term_type: TBD
-option_a: TBD
-option_b: TBD
-option_c: TBD
+arabic: أداء
+status: Proposed
+review_state: "Needs WG vote"
+term_type: "Performance Term"
+option_a: أداء
+option_b: "مستوى الأداء"
+option_c: "كفاءة الأداء"
 decision: TBD
 matrix: "[[Term-Selection-Matrices#Performance]]"
 source_term: "Performance"
@@ -20,10 +20,10 @@ tags:
 # Performance
 
 Arabic:
-TBD
+أداء
 
 Status:
-Source definition
+Proposed
 
 ## Source Definition
 
@@ -34,4 +34,4 @@ INCOSE Systems Engineering Handbook, Appendix C
 
 ## Translation Notes
 
-TBD
+`أداء` هو الخيار الأقصر والأوسع استعمالاً في سياقات هندسة النظم وإدارة المشاريع. `مستوى الأداء` يبرز جانب القياس الكمي في التعريف، بينما `كفاءة الأداء` قد تناسب بعض السياقات لكنها أضيق لأنها تميل إلى معنى efficiency.

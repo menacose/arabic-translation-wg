@@ -1,12 +1,12 @@
 ---
 english: "Return on investment"
-arabic: TBD
-status: "Source definition"
-review_state: "Needs Arabic term"
-term_type: TBD
-option_a: TBD
-option_b: TBD
-option_c: TBD
+arabic: "العائد على الاستثمار"
+status: Proposed
+review_state: "Needs WG vote"
+term_type: "Economic Term"
+option_a: "العائد على الاستثمار"
+option_b: "مردود الاستثمار"
+option_c: "نسبة العائد إلى الاستثمار"
 decision: TBD
 matrix: "[[Term-Selection-Matrices#Return on investment]]"
 source_term: "Return on investment"
@@ -20,10 +20,10 @@ tags:
 # Return on investment
 
 Arabic:
-TBD
+العائد على الاستثمار
 
 Status:
-Source definition
+Proposed
 
 ## Source Definition
 
@@ -34,4 +34,4 @@ ISO/IEC/IEEE 24765, 2017
 
 ## Translation Notes
 
-TBD
+`العائد على الاستثمار` هو المقابل الشائع للمؤشر المالي ROI. `مردود الاستثمار` أقصر ومفهوم، و`نسبة العائد إلى الاستثمار` يبرز كون التعريف ratio لكنه أقل اصطلاحية.

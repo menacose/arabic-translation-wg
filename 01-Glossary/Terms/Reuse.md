@@ -1,12 +1,12 @@
 ---
 english: "Reuse"
-arabic: TBD
-status: "Source definition"
-review_state: "Needs Arabic term"
-term_type: TBD
-option_a: TBD
-option_b: TBD
-option_c: TBD
+arabic: "إعادة الاستخدام"
+status: Proposed
+review_state: "Needs WG vote"
+term_type: "Reuse Term"
+option_a: "إعادة الاستخدام"
+option_b: "الاستخدام المتكرر"
+option_c: "توظيف الأصل مجدداً"
 decision: TBD
 matrix: "[[Term-Selection-Matrices#Reuse]]"
 source_term: "Reuse"
@@ -20,10 +20,10 @@ tags:
 # Reuse
 
 Arabic:
-TBD
+إعادة الاستخدام
 
 Status:
-Source definition
+Proposed
 
 ## Source Definition
 
@@ -34,4 +34,4 @@ IEEE 1517, 2010
 
 ## Translation Notes
 
-TBD
+`إعادة الاستخدام` هو المقابل التقني الأكثر مباشرة. `الاستخدام المتكرر` يركز على التكرار، و`توظيف الأصل مجدداً` يربط المصطلح بتعريفه بوصفه استخدام أصل في حل مشكلات مختلفة لكنه أطول.

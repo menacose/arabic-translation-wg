@@ -1,12 +1,12 @@
 ---
 english: "Quality Characteristics"
-arabic: TBD
-status: "Source definition"
-review_state: "Needs Arabic term"
-term_type: TBD
-option_a: TBD
-option_b: TBD
-option_c: TBD
+arabic: "خصائص الجودة"
+status: Proposed
+review_state: "Needs WG vote"
+term_type: "Quality Term"
+option_a: "خصائص الجودة"
+option_b: "سمات الجودة"
+option_c: "خواص الجودة"
 decision: TBD
 matrix: "[[Term-Selection-Matrices#Quality Characteristics]]"
 source_term: "Quality Characteristics"
@@ -20,10 +20,10 @@ tags:
 # Quality Characteristics
 
 Arabic:
-TBD
+خصائص الجودة
 
 Status:
-Source definition
+Proposed
 
 ## Source Definition
 
@@ -34,4 +34,4 @@ ISO/IEC/IEEE 15288, 2023
 
 ## Translation Notes
 
-TBD
+`خصائص الجودة` يحافظ على الصلة المباشرة بمصطلح quality في إدارة الجودة وإدارة المشاريع. `سمات الجودة` مناسب عند الحديث عن attributes، بينما `خواص الجودة` مفهوم لكنه أقل تداولاً في النصوص الإدارية والهندسية.

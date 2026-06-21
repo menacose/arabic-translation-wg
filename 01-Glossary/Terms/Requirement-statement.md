@@ -1,12 +1,12 @@
 ---
 english: "Requirement statement"
-arabic: TBD
-status: "Source definition"
-review_state: "Needs Arabic term"
-term_type: TBD
-option_a: TBD
-option_b: TBD
-option_c: TBD
+arabic: "بيان المتطلب"
+status: Proposed
+review_state: "Needs WG vote"
+term_type: "Requirements Term"
+option_a: "بيان المتطلب"
+option_b: "صياغة المتطلب"
+option_c: "نص المتطلب"
 decision: TBD
 matrix: "[[Term-Selection-Matrices#Requirement statement]]"
 source_term: "Requirement statement"
@@ -20,10 +20,10 @@ tags:
 # Requirement statement
 
 Arabic:
-TBD
+بيان المتطلب
 
 Status:
-Source definition
+Proposed
 
 ## Source Definition
 
@@ -34,4 +34,4 @@ INCOSE GtWR, 2022
 
 ## Translation Notes
 
-TBD
+`بيان المتطلب` يحافظ على اتساقه مع المصطلح المعتمد `متطلب` ويعكس كونه نتيجة صياغة رسمية. `صياغة المتطلب` يركز على عملية التعبير، و`نص المتطلب` واضح لكنه قد يحصر المعنى في العبارة المكتوبة فقط.
