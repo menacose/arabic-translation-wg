@@ -21,6 +21,9 @@ tags:
 
 Arabic:
 TBD
+الخصائص المشتركة
+المشتركات
+القواسم المشتركة
 
 Status:
 Source definition

@@ -21,6 +21,9 @@ tags:
 
 Arabic:
 TBD
+نشاط
+فعالية
+مجموعة مهام مترابطة
 
 Status:
 Source definition

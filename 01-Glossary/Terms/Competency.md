@@ -21,6 +21,9 @@ tags:
 
 Arabic:
 TBD
+الكفاءة المهنية
+الجدارة
+الجدارة المهنية
 
 Status:
 Source definition

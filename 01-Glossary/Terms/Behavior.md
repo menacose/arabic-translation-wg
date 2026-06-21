@@ -21,6 +21,9 @@ tags:
 
 Arabic:
 TBD
+سلوك
+تصرّف
+نهج السلوك
 
 Status:
 Source definition

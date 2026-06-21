@@ -21,6 +21,9 @@ tags:
 
 Arabic:
 TBD
+العميل
+الجهة المُقتنية
+
 
 Status:
 Source definition

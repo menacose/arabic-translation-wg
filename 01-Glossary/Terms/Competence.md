@@ -21,6 +21,9 @@ tags:
 
 Arabic:
 TBD
+التمكُّن
+الاقتدار
+ 
 
 Status:
 Source definition

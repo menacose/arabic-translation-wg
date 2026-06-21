@@ -21,6 +21,9 @@ tags:
 
 Arabic:
 TBD
+القدرة
+المقدرة
+القابلية
 
 Status:
 Source definition

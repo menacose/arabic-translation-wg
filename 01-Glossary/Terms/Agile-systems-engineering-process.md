@@ -21,6 +21,9 @@ tags:
 
 Arabic:
 TBD
+هندسة النظم الرشيقة
+هندسة النظم بأسلوب رشيق
+هندسة النظم المرنة
 
 Status:
 Source definition

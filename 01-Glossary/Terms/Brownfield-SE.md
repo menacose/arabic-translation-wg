@@ -21,6 +21,8 @@ tags:
 
 Arabic:
 TBD
+هندسة النظم في بيئة قائمة
+هندسة النظم في سياق قائم
 
 Status:
 Source definition

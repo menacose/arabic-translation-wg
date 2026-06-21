@@ -21,6 +21,8 @@ tags:
 
 Arabic:
 TBD
+معماري النظام
+معماري النظم
 
 Status:
 Source definition

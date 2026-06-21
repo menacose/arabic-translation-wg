@@ -21,6 +21,9 @@ tags:
 
 Arabic:
 TBD
+اتفاق
+اتفاق متبادل
+توافق
 
 Status:
 Source definition

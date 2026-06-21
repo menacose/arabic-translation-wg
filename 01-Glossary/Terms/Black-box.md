@@ -21,6 +21,8 @@ tags:
 
 Arabic:
 TBD
+الصندوق الأسود
+الصندوق المعتم
 
 Status:
 Source definition

@@ -21,6 +21,9 @@ tags:
 
 Arabic:
 TBD
+خاصية
+سِمة
+صِفة
 
 Status:
 Source definition

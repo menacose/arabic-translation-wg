@@ -21,6 +21,10 @@ tags:
 
 Arabic:
 TBD
+مُنتَج عمل
+مُخرَج عمل
+أثر عمل
+
 
 Status:
 Source definition

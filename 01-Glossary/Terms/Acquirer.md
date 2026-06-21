@@ -21,6 +21,9 @@ tags:
 
 Arabic:
 TBD
+المقتني
+الجهة المُقتنية
+الجهة المشترية
 
 Status:
 Source definition

@@ -21,6 +21,9 @@ tags:
 
 Arabic:
 TBD
+عنصر الضبط التكويني
+عنصر التهيئة
+بند التهيئة
 
 Status:
 Source definition
