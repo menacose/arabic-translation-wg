@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Glossary/Terms/Organization.md",
+                "file": "01-Glossary/Acronyms/CSEP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Organization"
+              "title": "CSEP"
             }
           }
         ]
@@ -185,13 +185,33 @@
   },
   "active": "96fa631c428e167e",
   "lastOpenFiles": [
+    "01-Glossary/Acronyms/A.md",
+    "01-Glossary/Acronyms/CSEP.md",
+    "01-Glossary/Acronyms/DANSE.md",
+    "01-Glossary/Acronyms/CRB.md",
+    "01-Glossary/Acronyms/CPS.md",
+    "01-Glossary/Acronyms/COTS.md",
+    "01-Glossary/Acronyms/COSYSMO.md",
+    "01-Glossary/Acronyms/ConOps.md",
+    "01-Glossary/Acronyms/COCOMO.md",
+    "01-Glossary/Acronyms/CMMI.md",
+    "01-Glossary/Acronyms/CM.md",
+    "01-Glossary/Acronyms/CI-CD.md",
+    "01-Glossary/Acronyms/CI.md",
+    "01-Glossary/Acronyms/CCB.md",
+    "01-Glossary/Acronyms/CBS.md",
+    "01-Glossary/Acronyms/CEA.md",
+    "01-Glossary/Acronyms/CE.md",
     "01-Glossary/Acronyms/CFD.md",
-    "00-Governance/Roles-and-Responsibilities.md",
+    "01-Glossary/Acronyms/CBA.md",
+    "01-Glossary/Acronyms/CAIV.md",
+    "01-Glossary/Acronyms/CAD.md",
+    "01-Glossary/Acronyms/BIT.md",
+    "01-Glossary/Acronyms/AWG.md",
+    "01-Glossary/Acronyms/ATAM.md",
+    "01-Glossary/Acronyms/ASQ.md",
+    "01-Glossary/Acronyms/AF.md",
     "01-Glossary/Acronyms.base",
-    "01-Glossary/Glossary.base",
-    "01-Glossary/Terms/Stakeholder.md",
-    "01-Glossary/Term-Selection-Matrices.md",
-    "01-Glossary/Terms/Ability.md",
-    "01-Glossary/Acronyms/A.md"
+    "01-Glossary/Glossary.base"
   ]
 }

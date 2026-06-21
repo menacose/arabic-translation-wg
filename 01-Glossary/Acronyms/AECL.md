@@ -15,7 +15,9 @@ tags:
 
 Arabic handling:
 TBD
-
+المؤسسة الكندية للطاقة الذرية المحدودة
+شركة الطاقة الذرية الكندية المحدودة
+الهيئة الكندية للطاقة الذرية المحدودة
 ## Expansions
 
 - Atomic Energy Commission Limited [Canada]

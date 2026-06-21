@@ -15,6 +15,8 @@ tags:
 
 Arabic handling:
 TBD
+الذكاء الاصطناعي
+
 
 ## Expansions
 

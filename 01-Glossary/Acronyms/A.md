@@ -14,7 +14,7 @@ tags:
 # A
 
 Arabic handling:
-TBD
+الإتاحية المُتحقَّقة
 
 ## Expansions
 

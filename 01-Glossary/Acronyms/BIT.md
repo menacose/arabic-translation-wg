@@ -15,6 +15,9 @@ tags:
 
 Arabic handling:
 TBD
+الاختبار الذاتي المدمج
+الاختبار المدمج
+الاختبار المضمَّن
 
 ## Expansions
 

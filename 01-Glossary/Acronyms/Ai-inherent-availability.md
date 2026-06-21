@@ -15,6 +15,9 @@ tags:
 
 Arabic handling:
 TBD
+الإتاحية المتأصلة
+الإتاحية الجوهرية
+الإتاحية الأصيلة
 
 ## Expansions
 

@@ -19,6 +19,9 @@ TBD
 ## Expansions
 
 - Configuration Item
+العنصر التكويني
+بند التهيئة
+عنصر الضبط التكويني
 
 ## Source
 

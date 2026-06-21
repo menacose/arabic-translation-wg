@@ -15,6 +15,9 @@ tags:
 
 Arabic handling:
 TBD
+مفهوم العمليات
+مفهوم التشغيل
+التصوّر التشغيلي
 
 ## Expansions
 
