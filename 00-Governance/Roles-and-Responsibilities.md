@@ -30,3 +30,17 @@ Maintains the official glossary, records terminology disagreements, and ensures 
 | TBD    | SE Reviewer      | TBD            |                                  |
 | TBD    | Glossary Curator | Whole glossary | Most critical coordination role. |
 |        |                  |                |                                  |
+
+## Glossary Letter Assignments
+
+| Participant             | Letters |
+| ----------------------- | ------- |
+| Dr.-Ing. Bassem Hassan  | A-C     |
+| Dina Saeed              | D-F     |
+| Dr. Ahmad Alsudairi     | G-I     |
+| Mohamed Allam           | J-L     |
+| Mostafa Shoukry         | M-O     |
+| Omar Hussein            | P-R     |
+| Raaid Marghlani         | S-U     |
+| Souleimane EREBIH       | V-X     |
+| Tarek Abouelnaga        | Y-Z     |
